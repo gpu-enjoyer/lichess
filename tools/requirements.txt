@@ -1,0 +1,7 @@
+
+requests
+chess
+pandas
+numpy
+matplotlib
+
