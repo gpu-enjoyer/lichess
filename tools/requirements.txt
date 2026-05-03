@@ -4,4 +4,4 @@ chess
 pandas
 numpy
 matplotlib
-
+seaborn
