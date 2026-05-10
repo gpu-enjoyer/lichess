@@ -7,5 +7,6 @@ cd "$PROJ"
 
 .venv/bin/python -m pip install -r tools/requirements.txt
 .venv/bin/python -m pip install ipykernel
+.venv/bin/python -m pip install ipywidgets
 .venv/bin/python -m ipykernel install --user --name chess \
     --display-name "Python (chess)"
